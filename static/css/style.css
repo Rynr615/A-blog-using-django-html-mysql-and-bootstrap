@@ -1,0 +1,31 @@
+#bannerfb {
+    width: 100%;
+}
+
+.post-img {
+    width: 100% ;
+}
+
+nav ul {
+    background-color: green;
+    list-style: none;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    color:  white;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: aqua;
+}
+
+h1 {
+    color: blue;
+}
